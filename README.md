@@ -5,4 +5,4 @@ This repository is about  the form elements example. It is developed with using 
 ## Appearance of Form Elements
 
 
-#P![Form Template Example](form-element-ss.png)
+![Form Template Example](form-element-ss.png)
