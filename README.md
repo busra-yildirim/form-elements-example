@@ -1,4 +1,4 @@
-# Form-Element-Testing
+# Form Elements Example
 
 This repository is about  the form elements example. It is developed with using HTML and CSS. 
 
